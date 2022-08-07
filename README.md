@@ -16,4 +16,4 @@ Estudando Javascript <img align="center" alt="Js" height="30" width="40" src="ht
   
   ##
   
- <a href = "mailto:cleiton_santos01@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href = "mailto:cleiton_santos01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
