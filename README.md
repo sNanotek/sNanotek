@@ -6,8 +6,8 @@ Estudando Javascript <img align="center" alt="Js" height="30" width="40" src="ht
 
 <div align="center">
   <a href="https://github.com/sNanotek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sNanotek&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sNanotek&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sNanotek&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sNanotek&layout=compact&langs_count=7&theme=onedark"/>
   
   .
   .
