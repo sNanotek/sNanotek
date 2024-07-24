@@ -1,5 +1,5 @@
 Estudante na faculdade UNINTER - Itaim Paulista SP - Análise e Desenvolvimento de Sistemas<br>
-A procura de uma oportunidade para aprimorar minhas habilidades tecnológicas migrando na área de programação!.
+A procura de uma oportunidade para aprimorar minhas habilidades tecnológicas e realizar soluções em sua determinada chamada..
 
 ##
 
