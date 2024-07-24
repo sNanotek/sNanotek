@@ -1,4 +1,5 @@
-Atualmente um estudante em busca de uma oportunidade de aprimoramento de habilidades e conhecimentos técnicos 🌐
+Estudante na faculdade UNINTER - Análise e Desenvolvimento de Sistemas
+A procura de uma oportunidade para aprimorar minhas habilidades tecnológicas migrando na área de programação!.
 
 ##
 
